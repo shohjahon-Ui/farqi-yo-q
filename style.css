@@ -1,0 +1,55 @@
+.card-1{
+    width: 270px;
+    height: 340px;
+    background-color: white;
+    border-radius: 14px;
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+     justify-content: space-between;  
+  padding: 20px;         
+    border: 1.5px solid #c5caff;
+      color: #3a3a6e;         
+}
+#lavha{
+    text-align: center;
+}
+hr{
+    background-color: grey;
+}
+p{
+    font-family: arial;
+}
+h1{
+    font-family: arial;
+}
+.card-gruop{
+    display: flex;
+    gap: 20px;
+ flex-direction: row;
+ width: 100%;
+height: 100%;
+ background: linear-gradient(135deg, #eeeeff 0%, #f5f5ff 50%, #ece8ff 100%);
+}
+.card-2{
+    width: 270px;
+    height: 340px;
+      background: linear-gradient(145deg, #6c63d5, #8b85e8);
+    border-radius: 14px;
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+     justify-content: space-around;  
+  padding: 20px;         
+    border: 1.5px solid #c5caff;
+  color: #ffffff;         
+}
+.btn-basic{
+  background: #6c63d5;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+    height: 300px;
+   width: 260px;
+
+}
